@@ -5,4 +5,4 @@
 #### *Поиск и фильтрация рецептов*
 #### *Добавление рецептов в избранное*
 # Использованный стек 
-#### *Kotlin, MVVM, Single Activity + Fragments, RecyclerView, LiveData, SingleLiveEvent, Room DataBase + SharedPreferences*
+#### *Kotlin, MVVM, Single Activity + Fragments, Jetpack Navigation, RecyclerView, LiveData, SingleLiveEvent, Room DataBase + SharedPreferences*
